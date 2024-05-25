@@ -26,7 +26,7 @@ const BreadcrumbComponent = () => {
                     </BreadcrumbItem>
                     <BreadcrumbSeparator />
                     <BreadcrumbItem>
-                        <BreadcrumbPage className="text-blue-600 font-bold">STFL17121182045413</BreadcrumbPage>
+                        <BreadcrumbPage className="text-[#1882FF] font-bold">STFL17121182045413</BreadcrumbPage>
                     </BreadcrumbItem>
                 </BreadcrumbList>
             </Breadcrumb>

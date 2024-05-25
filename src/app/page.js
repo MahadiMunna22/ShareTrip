@@ -1,6 +1,6 @@
 "use client";
 
-import TopBar from "@/components/TopBar";
+import TopBar from "@/components/BookingHistory/TopBar";
 import BookingHistoryPage from "@/components/BookingHistoryPage";
 import ReduxProvider from "@/redux/store/redux-provider";
 

@@ -1,6 +1,6 @@
 import React from 'react';
-import BreadcrumbComponent from "@/components/RightContent/BreadcrumbComponent";
-import HistoryDetails from "@/components/RightContent/HistoryDetails";
+import BreadcrumbComponent from "@/components/BookingHistory/RightContent/BreadcrumbComponent";
+import HistoryDetails from "@/components/BookingHistory/RightContent/HistoryDetails";
 
 const RightContent = () => {
     return (

@@ -1,14 +1,13 @@
 "use client"
 
 import React, {useState} from 'react';
-import LeftContent from "@/components/LeftContent";
-import RightContent from "@/components/RightContent";
+import LeftContent from "@/components/BookingHistory/LeftContent";
+import RightContent from "@/components/BookingHistory/RightContent";
 
 const BookingHistoryPage = () => {
-    const [selected, setSelected] = useState(1);
 
     return (
-        <div className="grid grid-cols-4 gap-4 h-96 mt-4">
+        <div className="grid grid-cols-4 gap-4 mt-4">
             <LeftContent/>
             <RightContent/>
         </div>

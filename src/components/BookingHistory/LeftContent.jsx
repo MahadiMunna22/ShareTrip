@@ -1,5 +1,5 @@
 import React from 'react';
-import HistoryList from "@/components/LeftContent/HistoryList";
+import HistoryList from "@/components/BookingHistory/LeftContent/HistoryList";
 
 const LeftContent = () => {
     return (
