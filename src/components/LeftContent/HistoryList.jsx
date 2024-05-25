@@ -54,7 +54,7 @@ const HistoryList = () => {
                 </div>
                 <div>
                     <strong className="text-lg leading-none">{item?.From} → {item?.To}</strong><br/>
-                    <p className="text-sm leading-none text-ellipsis">{item?.TripType} . {item?.Date} . {item?.StopCount} Stop</p>
+                    <p className="text-xs leading-none text-ellipsis">{item?.TripType} . {item?.Date} . {item?.StopCount} Stop</p>
                 </div>
             </div>
         )
