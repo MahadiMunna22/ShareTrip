@@ -1,5 +1,3 @@
-"use client"
-
 import React, {useState} from 'react';
 import LeftContent from "@/components/BookingHistory/LeftContent";
 import RightContent from "@/components/BookingHistory/RightContent";

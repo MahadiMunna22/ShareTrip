@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React from 'react';
 import LocationIcon from "@/assets/images/LocationIcon.png"
 import EmiratesIcon from "@/assets/images/Emirates.png"
 import PlaneIcon from "@/assets/images/PlaneIcon.png"

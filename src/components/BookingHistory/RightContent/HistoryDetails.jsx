@@ -1,5 +1,3 @@
-"use client"
-
 import React from 'react';
 import FlightHistoryCard from "@/components/BookingHistory/RightContent/HistoryDetails/FlightHistoryCard";
 import FlightDetails from "@/components/BookingHistory/RightContent/HistoryDetails/FlightDetails";
